@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Boniface Mwema and I'm a Software Engineer, from Nairobi Kenya</h2>
+<h2 align="center">Hi 👋! My name is Techbite and I'm a Software Engineer, from Nairobi Kenya</h2>
 
 ###
 
